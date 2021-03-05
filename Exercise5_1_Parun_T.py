@@ -5,8 +5,8 @@ result2 = p1V - p2V
 result3 = p1V * p2V
 result4 = p1V / p2V
 print ("----------Result--------")
-print (result1)
-print (result2)
-print (result3)
-print (result4)
+print (p1V , "+" , p2V , "=" , result1)
+print (p1V , "-" , p2V , "=" , result2)
+print (p1V , "*" , p2V , "=" , result3)
+print (p1V , "/" , p2V , "=" , result4)
 print ("----------Result--------")
